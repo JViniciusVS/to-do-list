@@ -17,4 +17,8 @@ Este é um projeto de **Lista de Tarefas (To-Do List)** desenvolvido em **React*
 
 ## 📷 Prévia do Projeto
 
-![Prévia do To-Do List](assets/to-do-list-preview.png)
+![Prévia do To-Do List](/src/assets/to-do-list-preview.png)
+
+## 📜 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
