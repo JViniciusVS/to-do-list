@@ -36,6 +36,10 @@ button {
   transition: background-color 0.5 ease;
 }
 
+.input-field {
+  display: flex;
+}
+
 .tasks-list {
   width: 100%;
   max-width: 900px;
